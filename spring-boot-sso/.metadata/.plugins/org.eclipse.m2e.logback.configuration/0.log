@@ -1,0 +1,21 @@
+2023-06-21 22:03:32,029 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-06-21 22:05:31,283 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ece:springboot-sso-saml:0.0.1-SNAPSHOT @ /home/nagendrappae/javaworkplace/spring-boot-sso/springboot-sso-saml/pom.xml.
+2023-06-21 22:05:35,374 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sso-saml/src/main/java
+2023-06-21 22:05:35,375 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sso-saml/src/main/resources
+2023-06-21 22:05:35,376 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sso-saml/src/main/resources
+2023-06-21 22:05:35,379 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sso-saml/src/test/java
+2023-06-21 22:05:39,160 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 11 sec
+2023-06-21 22:05:39,165 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2023-06-21 22:05:39,396 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.ece:springboot-sso-saml:0.0.1-SNAPSHOT @ /home/nagendrappae/javaworkplace/spring-boot-sso/springboot-sso-saml/pom.xml.
+2023-06-21 22:05:39,681 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sso-saml/src/main/java
+2023-06-21 22:05:39,682 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sso-saml/src/main/resources
+2023-06-21 22:05:39,682 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /springboot-sso-saml/src/main/resources
+2023-06-21 22:05:39,683 [Worker-0: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /springboot-sso-saml/src/test/java
+2023-06-21 22:05:40,306 [Worker-0: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2023-06-21 22:05:41,623 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 22:05:41,623 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-21 22:05:41,636 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2023-06-21 22:05:42,179 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2023-06-21 22:05:42,184 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-06-21 22:05:42,184 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2023-06-21 22:05:42,185 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/nagendrappae/javaworkplace/spring-boot-sso/springboot-sso-saml/src/test/resources
