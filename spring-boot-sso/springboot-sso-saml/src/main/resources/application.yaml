@@ -1,0 +1,12 @@
+spring:
+  security:
+    saml2:
+      relyingparty:
+        registration:
+          okta-saml:
+            identityprovider:
+              entity-id: http://www.okta.com/exka2sbyx13nJqUST5d7
+              verification.credentials:
+                - certificate-location: "classpath:saml-certificate/okta.cert"
+              singlesignon.url: https://dev-53681077.okta.com/app/dev-53681077_fluxsso_1/exka2sbyx13nJqUST5d7/sso/saml
+              singlesignon.sign-request: false
